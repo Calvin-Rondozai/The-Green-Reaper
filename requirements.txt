@@ -1,1 +1,5 @@
-selenium faker undetected-chromedriver aiohttp 
+selenium
+faker
+undetected-chromedriver
+aiohttp
+pillow
